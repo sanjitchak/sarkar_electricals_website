@@ -16,6 +16,11 @@ body.header-hamburger-menu.slide-left header .level:last-child .main-navigation>
     padding-bottom: 0px;
 }
 
+.offers-section img {
+    min-width: 453px;
+    min-height: 340px;
+}
+
 .input, .textarea {
     color: rgb(0, 0, 0);
     border-color: black;
