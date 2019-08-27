@@ -50,6 +50,10 @@ body.header-menu-border-bottom header .main-navigation>ul>li.active:after, body.
     border-bottom: 1.5px solid #ee1c25;
 }
 
+#header-wrap {
+    min-height: 64px;
+}
+
 .heading-title-top.style-2 {
     font-family: Oswald, sans-serif;
     padding-top: 20px;
