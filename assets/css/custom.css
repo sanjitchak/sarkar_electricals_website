@@ -12,6 +12,10 @@ body.header-hamburger-menu.slide-left header .level:last-child .main-navigation>
     text-transform: lowercase;
 }
 
+#adora_img {
+    padding-bottom: 0px;
+}
+
 .input, .textarea {
     color: rgb(0, 0, 0);
     border-color: black;
