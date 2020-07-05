@@ -3,6 +3,9 @@
  * Note: use this file to add or override any other styles.
  * DON'T EDIT TEMPLATE CSS/SCSS FILES DIRECTLY, JUST USE THIS FILE.
  */
+.button {
+ background-color: green;
+}
 .button.is-primary {
     background-color: green;
 }
